@@ -1,4 +1,4 @@
-package p0;
+package introduction.p0;
 
 public class App {
     public static void main(String[] args) throws Exception {

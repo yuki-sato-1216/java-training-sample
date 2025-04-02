@@ -105,4 +105,10 @@ VSCode上で使用するJDKを設定します
 
 1.「Command + Shift + P」でコマンドパレットを開き、'Configure Java Runtime' と入力する
 2. タブ「JDK Runtime」 を確認し、Javaバージョンが 'JavaSE-17' となっていることを確認する
-  * JavaSE-17となっていない場合、JavaSE-17を設定する
+3. 「JavaSE-17」となっていない場合、JavaSE-17を設定する
+  * もし「JavaSE-17」となっていない場合は、手順4以降を実施する
+4. Finderを開き、上部メニューの「移動」を選択する
+5. 下部にある「フォルダへ移動」を選択し、setup.shでログ出力されたsdkmanのパスの一部を入力し移動する
+  * `/Users/ユーザー名/.sdkman/candidates/`
+6. Javaフォルダが表示されるので、Finder左側の「よく使う項目」にドラッグアンドドロップする
+7. 再度、手順の1〜3実施する
