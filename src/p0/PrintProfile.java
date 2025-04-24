@@ -1,3 +1,5 @@
+package p0;
+
 public class PrintProfile {
     public static void main(String[] args) {
         /* ----- 自己紹介タスク ----- */
