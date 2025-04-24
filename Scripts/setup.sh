@@ -46,6 +46,7 @@ sdk env install
 
 echo "✅ Java セットアップ完了！🎉"
 echo "もし「Could not find .sdkmanrc in the current directory.」と出ても今回は無視で問題ないです！"
+echo "その後「Run 'sdk env init' to create it.」と表示された場合も無視してください！"
 echo "----------------------------------------------------"
 echo ""
 
